@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 4 Months<br>📚 I'm currently learning Web-Dev with AI/ML<br>🎯 Goals: Crack ML Engineer <br>🎲 Fun fact: I fix one Bug and Create three new Bug</p>
+<p align="left">✨ Creating bugs since 4 Months<br>📚 I'm currently learning Web-Dev with AI/ML<br>🎯 Goals: Crack ML Engineer Job<br>🎲 Fun fact: I fix one Bug and Create three new Bug</p>
 
 ###
 
