@@ -48,7 +48,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shivamk-tech/shivamk-tech/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
