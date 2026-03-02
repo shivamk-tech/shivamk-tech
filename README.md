@@ -61,20 +61,17 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivamk-tech&show_icons=true&theme=tokyonight" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamk-tech&theme=tokyonight" height="170"/>
 
 </div>
 
 ---
 
-## 🧠 Most Used Languages
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamk-tech&layout=compact&theme=tokyonight"/>
+## 📈 Contribution Graph
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamk-tech&theme=react-dark" />
 
 ---
 
