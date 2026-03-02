@@ -20,7 +20,7 @@
 ## 🚀 Featured Projects
 
 ### 🚕 Full MERN Stack Uber Clone
-<img src="./assets/uber-clone-logo.png" width="120"/>
+<img src="./assets/logo.svg" width="120"/>
 
 - Real-time ride booking system  
 - Live location tracking  
@@ -30,7 +30,7 @@
 ---
 
 ### 🎨 Sketcha
-<img src="./assets/sketcha-logo.png" width="120"/>
+<img src="./assets/image.png" width="120"/>
 
 - Creative drawing / sketch based application  
 - Interactive UI experience  
