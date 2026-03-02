@@ -39,15 +39,13 @@
 ---
 
 ### ✅ TaskMaster
-<img src="./assets/taskmaster-logo.png" width="120"/>
+<img src="./assets/check-double-solid-full.svg" width="120"/>
 
 - Productivity & task management app  
 - Clean task workflow system  
 - Focus on simplicity + performance  
 
 ---
-
-## ⚡ Tech Stack
 
 ## ⚡ Tech Stack
 
