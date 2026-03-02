@@ -1,72 +1,108 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&text=Hey%20I'm%20Shivam%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Learning+AI%2FML;Future+ML+Engineer;Building+Cool+Things+🚀" />
+
 </div>
 
-###
+---
 
-<h1 align="left">Hey What's up?</h1>
+## 🧑🏻‍💻 About Me
 
-###
+✨ Creating bugs since 4 months  
+📚 Currently learning **Web Development + AI/ML**  
+🎯 Goal: **Crack a ML Engineer role**  
+🎲 Fun fact: *I fix one bug and create three new bugs* 😭  
 
-<p align="left">My name is Shivam, currently Studying 🧑🏻‍💻 .</p>
+---
 
-###
+## 🚀 Featured Projects
 
-<h2 align="left">About me</h2>
+### 🚕 Full MERN Stack Uber Clone
+<img src="./assets/uber-clone-logo.png" width="120"/>
 
-###
+- Real-time ride booking system  
+- Live location tracking  
+- Auth & role-based system  
+- MERN architecture + scalable backend  
 
-<p align="left">✨ Creating bugs since 4 Months<br>📚 I'm currently learning Web-Dev with AI/ML<br>🎯 Goals: Crack ML Engineer Job<br>🎲 Fun fact: I fix one Bug and Create three new Bug</p>
+---
 
-###
+### 🎨 Sketcha
+<img src="./assets/sketcha-logo.png" width="120"/>
 
-<h2 align="left">I code with</h2>
+- Creative drawing / sketch based application  
+- Interactive UI experience  
+- Designed for smooth user interaction  
 
-###
+---
+
+### ✅ TaskMaster
+<img src="./assets/taskmaster-logo.png" width="120"/>
+
+- Productivity & task management app  
+- Clean task workflow system  
+- Focus on simplicity + performance  
+
+---
+
+## ⚡ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,python,cpp,mysql,html,css,git,vscode" />
+
 </div>
 
-###
+---
 
+## 📊 GitHub Stats
 
+<div align="center">
 
-###
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="170"/>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shivam-kumar-218777276/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/tenzin_886" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+## 🧠 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </div>
 
-###
+---
+
+## 🌱 Currently Learning
+
+- Advanced MERN Architecture  
+- Machine Learning Fundamentals  
+- System Design Basics  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/shivam-kumar-218777276/">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://x.com/tenzin_886">
+  <img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+</p>
+
+---
+
+<div align="center">
+
+🔥 *Code. Break. Learn. Repeat.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0ea5e9,100:2563eb"/>
