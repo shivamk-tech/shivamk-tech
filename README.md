@@ -49,9 +49,11 @@
 
 ## ⚡ Tech Stack
 
+## ⚡ Tech Stack
+
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,python,cpp,mysql,html,css,git,vscode" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,python,cpp,c,mongodb,mysql,html,css,tailwind,postman,apple,git,vscode" />
 
 </div>
 
