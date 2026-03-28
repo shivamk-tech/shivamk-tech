@@ -51,7 +51,7 @@
 
 <div align="left">
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,react,express,nextjs,python,cpp,c,mongodb,mysql,html,css,tailwind,postman,apple,git,vscode" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,nextjs,python,cpp,c,mongodb,mysql,html,css,tailwind,postman,apple,git,vscode" />
 
 </div>
 
