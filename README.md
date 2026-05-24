@@ -15,9 +15,11 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
-
 ## <img src="https://cdn.simpleicons.org/github/38bdf8" width="22"/> About Me
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
+</div>
 
 ```javascript
 const shivam = {
@@ -30,7 +32,7 @@ const shivam = {
 };
 ```
 
-<br clear="right"/>
+
 
 ---
 
@@ -40,7 +42,7 @@ const shivam = {
 <tr>
 <td width="50%" valign="top">
 
-### <img src="./assets/codeclaira-tree-icon.svg" width="22" style="vertical-align:middle"/> CodeClaria
+### CodeClaria
 
 <img src="./assets/codeclaira-tree-icon.svg" width="60" align="left" style="margin-right:12px"/>
 
@@ -48,12 +50,12 @@ const shivam = {
 
 Connect your GitHub repos and get intelligent PR/commit analysis. Smarter, faster feedback to level up your code quality — backed by subscription-based access control.
 
-`AI` `GitHub API` `MERN` `LLM`
+`AI` `GitHub API` `Next.js` `TypeScript` `LLM`
 
 </td>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/uber/38bdf8" width="22" style="vertical-align:middle"/> Uber Clone
+### Uber Clone
 
 <img src="./assets/logo.svg" width="60" align="left" style="margin-right:12px"/>
 
@@ -68,7 +70,7 @@ Real-time ride booking with live location tracking, role-based auth, and a scala
 <tr>
 <td width="50%" valign="top">
 
-### <img src="https://cdn.simpleicons.org/adobeillustrator/38bdf8" width="22" style="vertical-align:middle"/> Sketcha
+### Sketcha
 
 <img src="./assets/image.png" width="60" align="left" style="margin-right:12px"/>
 
@@ -81,15 +83,15 @@ An interactive sketch-based app with a smooth, responsive canvas UI designed for
 </td>
 <td width="50%" valign="top">
 
-### <img src="./assets/1779625962496_image.png" width="22" style="vertical-align:middle"/> TriggerInsta
+### TriggerInsta
 
-<img src="./assets/1779625962496_image.png" width="60" align="left" style="margin-right:12px"/>
+<img src="./assets/instaautomation_1D.svg" width="60" align="left" style="margin-right:12px"/>
 
 **Smart Instagram automation platform**
 
 Automate repetitive Instagram tasks — auto-replies, lead collection, scheduled actions & engagement workflows. Analytics + automation + user interaction, all in one modern dashboard.
 
-`Instagram API` `Automation` `MERN` `Analytics`
+`Instagram API` `Automation` `Next.js` `TypeScript` `Analytics`
 
 </td>
 </tr>
