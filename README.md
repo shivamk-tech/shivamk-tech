@@ -1,9 +1,6 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0ea5e9,100:2563eb&text=Hey%20I'm%20Shivam%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Learning+AI%2FML;Future+ML+Engineer;Building+Cool+Things+🚀" />
-
 </div>
 
 ---
@@ -19,7 +16,19 @@
 
 ## 🚀 Featured Projects
 
+### 🤖 CodeClaria
+
+<img src="./assets/codeclaira-tree-icon.svg" width="120"/>
+
+- AI-powered code review & developer productivity platform  
+- Connect GitHub repos and get intelligent, automated PR/commit analysis  
+- Cleaner, smarter, faster feedback to improve code quality  
+- Subscription-based usage tracking with role-based access  
+
+---
+
 ### 🚕 Full MERN Stack Uber Clone
+
 <img src="./assets/logo.svg" width="120"/>
 
 - Real-time ride booking system  
@@ -30,6 +39,7 @@
 ---
 
 ### 🎨 Sketcha
+
 <img src="./assets/image.png" width="120"/>
 
 - Creative drawing / sketch based application  
@@ -38,21 +48,10 @@
 
 ---
 
-### ✅ TaskMaster
-<img src="./assets/check-double-solid-full.svg" width="120"/>
-
-- Productivity & task management app  
-- Clean task workflow system  
-- Focus on simplicity + performance  
-
----
-
 ## ⚡ Tech Stack
 
 <div align="left">
-
 <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,express,nextjs,python,cpp,c,mongodb,mysql,html,css,tailwind,apple,git,vscode" />
-
 </div>
 
 ---
@@ -60,14 +59,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamk-tech&theme=tokyonight" height="170"/>
-
 </div>
 
 ---
-
-
 
 ## 📈 Contribution Graph
 
@@ -97,9 +92,7 @@
 ---
 
 <div align="center">
-
 🔥 *Code. Break. Learn. Repeat.*
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0ea5e9,100:2563eb"/>
