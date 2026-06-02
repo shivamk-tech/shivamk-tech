@@ -72,7 +72,7 @@ Real-time ride booking with live location tracking, role-based auth, and a scala
 
 ### Sketcha
 
-<img src="./assets/image.png" width="60" align="left" style="margin-right:12px"/>
+<img src="./assets/sketcha_icon_full.png" width="60" align="left" style="margin-right:12px"/>
 
 **Creative drawing application**
 
