@@ -23,7 +23,7 @@
 
 ```javascript
 const shivam = {
-  status:     "Creating bugs since 4 months",
+  status:     "Creating bugs since 12 months",
   learning:   ["Web Dev", "AI/ML", "System Design"],
   goal:       "Land a ML Engineer role",
   funFact:    "Fix 1 bug → create 3 new bugs",
