@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Building+AI-Powered+Products;Learning+ML+%26+System+Design;Future+ML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Django+%26+DRF+Backend+Developer;Building+AI-Powered+Products;Learning+ML+%26+System+Design;Future+ML+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,7 +27,7 @@ const shivam = {
   learning:   ["Web Dev", "AI/ML", "System Design"],
   goal:       "Land a ML Engineer role",
   funFact:    "Fix 1 bug → create 3 new bugs",
-  stack:      ["MERN", "Python", "Next.js"],
+  stack:      ["MERN", "Python", "Django", "DRF", "Next.js"],
   openTo:     "Internships & Collabs"
 };
 ```
@@ -103,8 +103,6 @@ Automate repetitive Instagram tasks — auto-replies, lead collection, scheduled
 
 <div align="center">
 
-## 🛠️ Tech Stack
-
 ### Languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -124,6 +122,8 @@ Automate repetitive Instagram tasks — auto-replies, lead collection, scheduled
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -142,6 +142,8 @@ Automate repetitive Instagram tasks — auto-replies, lead collection, scheduled
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -174,6 +176,7 @@ Automate repetitive Instagram tasks — auto-replies, lead collection, scheduled
 | <img src="https://cdn.simpleicons.org/readme/38bdf8" width="16"/> Topic | <img src="https://cdn.simpleicons.org/statuspage/38bdf8" width="16"/> Status |
 |---|---|
 | Advanced MERN Architecture | In Progress |
+| Django REST Framework & Scalable APIs | In Progress |
 | Machine Learning Fundamentals | Learning |
 | System Design Basics | Exploring |
 
